@@ -55,21 +55,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker MD
-global.botname = 'Shahid-MD'
+global.botname = '𝐒𝐇𝐀𝐇𝐈𝐃-𝐌𝐃.𝐕2'
 global.premium = 'true'
-global.packname = 'MR Drug TEAM' 
-global.author = '@Shahid-MD' 
+global.packname = '𝐒𝐇𝐀𝐇𝐈𝐃 𝐈𝐍𝐅𝐎 𝐓𝐄𝐂𝐇' 
+global.author = '@𝐒𝐇𝐀𝐇𝐈𝐃-𝐌𝐃.𝐕2' 
 global.menuvid = 'https://telegra.ph/file/9bb79c87d32ee4f0cf3ec.jpg'
 global.igfg = '▢✓ Follow My channelhttps://whatsapp.com/channel/0029Vaa3Nz9FSAt1bxpPwt3x' 
 global.dygp = 'https://chat.whatsapp.com/BIhyo7byRNP4ZvUl5WH0dB'
 global.fgsc = 'https://github.com/Admin786T/SHAHID-MD' 
 global.fgyt = 'https://www.youtube.com/@MrRAJA7HACKER'
 global.fgpyp = 'https://www.youtube.com/@MrRAJA7HACKER'
-global.fglog = 'SHAHID-MD.jpg' 
-global.thumb = fs.readFileSync('./SHAHID-MD.jpg')
+global.fglog = '𝐒𝐇𝐀𝐇𝐈𝐃-𝐌𝐃.jpg' 
+global.thumb = fs.readFileSync('./𝐒𝐇𝐀𝐇𝐈𝐃-𝐌𝐃.jpg')
 
 
-global.wait = '*🕣 _SHAHID-MD IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _𝐒𝐇𝐀𝐇𝐈𝐃-𝐌𝐃 IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
